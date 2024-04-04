@@ -5669,40 +5669,32 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ziggy\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "/root/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\GitHub\\Articles-Posts\\C#\\dotnet8-xunit-unit-testing-guide\\ZiggyRafiqConsoleApp.Tests\\ZiggyRafiqConsoleApp.Tests.csproj",
+      "projectUniqueName": "/workspaces/workspace/ZiggyRafiqConsoleApp.Tests/ZiggyRafiqConsoleApp.Tests.csproj",
       "projectName": "ZiggyRafiqConsoleApp.Tests",
-      "projectPath": "E:\\GitHub\\Articles-Posts\\C#\\dotnet8-xunit-unit-testing-guide\\ZiggyRafiqConsoleApp.Tests\\ZiggyRafiqConsoleApp.Tests.csproj",
-      "packagesPath": "C:\\Users\\ziggy\\.nuget\\packages\\",
-      "outputPath": "E:\\GitHub\\Articles-Posts\\C#\\dotnet8-xunit-unit-testing-guide\\ZiggyRafiqConsoleApp.Tests\\obj\\",
+      "projectPath": "/workspaces/workspace/ZiggyRafiqConsoleApp.Tests/ZiggyRafiqConsoleApp.Tests.csproj",
+      "packagesPath": "/root/.nuget/packages/",
+      "outputPath": "/workspaces/workspace/ZiggyRafiqConsoleApp.Tests/obj/",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\ziggy\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/root/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "E:\\GitHub\\Articles-Posts\\C#\\dotnet8-xunit-unit-testing-guide\\ZiggyRafiqConsoleApp\\ZiggyRafiqConsoleApp.csproj": {
-              "projectPath": "E:\\GitHub\\Articles-Posts\\C#\\dotnet8-xunit-unit-testing-guide\\ZiggyRafiqConsoleApp\\ZiggyRafiqConsoleApp.csproj"
+            "/workspaces/workspace/ZiggyRafiqConsoleApp/ZiggyRafiqConsoleApp.csproj": {
+              "projectPath": "/workspaces/workspace/ZiggyRafiqConsoleApp/ZiggyRafiqConsoleApp.csproj"
             }
           }
         }
@@ -5711,6 +5703,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -5758,7 +5755,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.202/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

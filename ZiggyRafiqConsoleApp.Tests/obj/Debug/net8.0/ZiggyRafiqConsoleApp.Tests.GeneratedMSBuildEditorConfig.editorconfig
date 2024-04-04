@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ZiggyRafiqConsoleApp.Tests
-build_property.ProjectDir = E:\GitHub\Articles-Posts\C#\dotnet8-xunit-unit-testing-guide\ZiggyRafiqConsoleApp.Tests\
+build_property.ProjectDir = /workspaces/workspace/ZiggyRafiqConsoleApp.Tests/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

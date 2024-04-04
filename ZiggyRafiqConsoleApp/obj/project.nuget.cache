@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "w1v73FTT1+2EnojIxIWDh1AcTsJhTJlPWfs3HDmvt3ktzHROyiVGNrbEwHNVaIq6pff+JBCjyyA/sAMwxKPjtA==",
+  "dgSpecHash": "FkI+zTpYpyQ50ToNhqMttPFi5L9TIf2vz5kXNklanZWbp7eRxU/V22fPawsqt1A3DGCo+WsoeGJJn+vNvDl2nA==",
   "success": true,
-  "projectFilePath": "E:\\GitHub\\Articles-Posts\\C#\\dotnet8-xunit-unit-testing-guide\\ZiggyRafiqConsoleApp\\ZiggyRafiqConsoleApp.csproj",
+  "projectFilePath": "/workspaces/workspace/ZiggyRafiqConsoleApp/ZiggyRafiqConsoleApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
